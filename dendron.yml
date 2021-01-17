@@ -9,3 +9,5 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
+    assetsPrefix: dendron-publish-sample
+    siteUrl: https://kevinslin.github.io
